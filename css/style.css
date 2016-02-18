@@ -65,9 +65,9 @@ h5 {
 .date-text {
   font-style: italic;
   font-size: 14px;
-  color: #999;
-  line-height: 16px;
-  float: left;
+  color: #f5a623;
+  line-height: 14px;
+  float: right;
 }
 
 .location-text {
@@ -192,6 +192,10 @@ span {
   .welcome-message {
     display: none;
   }
+}
+
+#education {
+  height: 140px;
 }
 
 #map {
