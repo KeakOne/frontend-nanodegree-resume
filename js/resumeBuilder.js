@@ -4,6 +4,8 @@ This is empty on purpose! Your code to build the resume will go here.
 
 var skills = ['CSS ','design ','Smash Bros '];
 
+
+
 var bio = {
 	"name": "Keanu",
 	"age": 23,
@@ -157,6 +159,8 @@ var education = {
     }
   }
   displaySchools();
+
+$("#mapDiv").append(googleMap);
 
 	// function displayOnlinCourses() {
  //    if (education.onlineCourses.length > 0) {
